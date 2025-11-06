@@ -1,6 +1,12 @@
 
 ## [22.04-cis1.4-20251106] - 2025-11-06
 - CIS Benchmark: cis1.4
+- ECR Image: `661539128717.dkr.ecr.ap-south-1.amazonaws.com/hardened-ubuntu:22.04-cis1.4-20251106-786e616`
+- Summary: Image promoted to prod after passing security validation. CRITICAL/HIGH CVEs = 0.
+
+
+## [22.04-cis1.4-20251106] - 2025-11-06
+- CIS Benchmark: cis1.4
 - ECR Image: `661539128717.dkr.ecr.ap-south-1.amazonaws.com/hardened-ubuntu:22.04-cis1.4-20251106-5cba0ec`
 - Summary: Image promoted to prod after passing security validation. CRITICAL/HIGH CVEs = 0.
 
