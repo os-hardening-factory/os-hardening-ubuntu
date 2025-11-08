@@ -1,4 +1,10 @@
 
+## [22.04-cis1.4-20251108] - 2025-11-08
+- CIS Benchmark: cis1.4
+- ECR Image: `661539128717.dkr.ecr.ap-south-1.amazonaws.com/hardened-ubuntu:22.04-cis1.4-20251108-2088318`
+- Summary: Image promoted to prod after signing and verification. CRITICAL/HIGH CVEs = 0.
+
+
 ## [22.04-cis1.4-20251106] - 2025-11-06
 - CIS Benchmark: cis1.4
 - ECR Image: `661539128717.dkr.ecr.ap-south-1.amazonaws.com/hardened-ubuntu:22.04-cis1.4-20251106-c09a862`
